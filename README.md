@@ -1,1 +1,3 @@
-# cpp_vscode_project
+# vscode_cpp
+
+自用 vscode c++ 项目模板
